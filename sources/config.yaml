@@ -1,0 +1,23 @@
+buildVariable: false
+removeOutlineOverlaps: false
+productionNames: false
+decomposeTransformedComponents: false
+sources:
+  - Lato-Black.glyphs
+  - Lato-BlackItalic.glyphs
+  - Lato-Bold.glyphs
+  - Lato-BoldItalic.glyphs
+  - Lato-ExtraBold.glyphs
+  - Lato-ExtraBoldItalic.glyphs
+  - Lato-ExtraLight.glyphs
+  - Lato-ExtraLightItalic.glyphs
+  - Lato-Italic.glyphs
+  - Lato-Light.glyphs
+  - Lato-LightItalic.glyphs
+  - Lato-Medium.glyphs
+  - Lato-MediumItalic.glyphs
+  - Lato-Regular.glyphs
+  - Lato-SemiBold.glyphs
+  - Lato-SemiBoldItalic.glyphs
+  - Lato-Thin.glyphs
+  - Lato-ThinItalic.glyphs
